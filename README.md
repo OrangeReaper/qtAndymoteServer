@@ -3,10 +3,10 @@ Qt Based Server for AndyMOTE App
 
 Qt AndyMOTE Server is part of the AndyMOTE Project
 
-The AndyMOTE Project's aim is to provide a 'Universal Remote Control' ie provide a single interface for
+The [AndyMOTE Project's](https://andymote.abondservices.com) aim is to provide a 'Universal Remote Control' ie provide a single interface for
 multiple infra-red remote controls and native interface to Kodi boxes
 
-The AndyMOTE Server connects to an (Android) AndyMOTE App through a local network (See diagram).
+The AndyMOTE Server connects to an (Android) [AndyMOTE App](https://andymote.abondservices.com/) through a local network (See diagram).
 
 ![AndyMOTE System Diagram](https://andymote.abondservices.com/assets/images/system.png)
 
