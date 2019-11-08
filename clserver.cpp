@@ -40,7 +40,7 @@ void clServer::exec(int port){
     QEventLoop loop;
 
     connect(server, SIGNAL(newConnection()), this, SLOT(newConnection()));
-    server->listen(QHostAddress::Any, port);
+    server->listen(QHostAddress::AnyIPv4, port);
 
     loop.exec();
 

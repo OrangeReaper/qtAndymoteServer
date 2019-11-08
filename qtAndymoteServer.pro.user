@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.6.1, 2019-11-02T18:10:15. -->
+<!-- Written by QtCreator 4.6.1, 2019-11-08T19:33:28. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -62,7 +62,7 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Rpi2</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Rpi2</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{b5842dc2-a3ef-4730-a893-a4c16d22c544}</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">1</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
@@ -278,8 +278,8 @@
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinux.DirectUploadStep</value>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedFiles">
-       <value type="QString">/home/andy/QtApps/build-qtAndymoteServer-Rpi2-Debug/qtAndymoteServer</value>
        <value type="QString">/home/andy/QtApps/build-qtAndymoteServer-Rpi2-Release/qtAndymoteServer</value>
+       <value type="QString">/home/andy/QtApps/build-qtAndymoteServer-Rpi2-Debug/qtAndymoteServer</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedHosts">
        <value type="QString">192.168.1.110</value>
@@ -294,8 +294,8 @@
        <value type="QString">/opt/qt5pi/sysroot</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedTimes">
+       <value type="QDateTime">2019-11-08T19:21:45</value>
        <value type="QDateTime">2019-10-18T12:25:22</value>
-       <value type="QDateTime">2019-10-18T12:04:35</value>
       </valuelist>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.IgnoreMissingFiles">false</value>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.Incremental">true</value>
@@ -627,7 +627,7 @@
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">qtAndymoteServer.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/home/andy/QtApps/build-qtAndymoteServer-Rpi2-Debug</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/home/andy/QtApps/build-qtAndymoteServer-Rpi2-Release</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
